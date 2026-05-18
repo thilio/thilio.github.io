@@ -1,12 +1,6 @@
 # Your bio/about content (supports Markdown)
 content: |
-  I am a **PhD Candidate in Machine Learning** at **Georgia Tech**, based in the
-  [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/),
-  advised by **[Dr. Gian-Gabriel Garcia](https://giangabrielgarcia.com/)**. My research sits at the intersection of
-  **decision-focused learning**, **sequential decision-making under uncertainty**, and
-  **reinforcement learning**, with a focus on **healthcare applications** where decisions
-  are shaped by limited resources and noi
-  <hr class="bio-separator">
+  I am a PhD student in Algorithms, Combinatorics and Optimization at **Georgia Tech**, advised by **[Mohit Singh](https://www2.isye.gatech.edu/~msingh94/)** and **[Sahil Singla](https://faculty.cc.gatech.edu/~ssingla7/)**.
 
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
