@@ -1,0 +1,15 @@
+# Teaching - organized by school
+# Fields:
+#   - school: School name
+#   - logo: Path to school logo (optional)
+#   - experiences: List of teaching experiences
+#     - title: Role/position title
+#     - items: List of specific items (col1, col2 [, col3], optional comment)
+
+- school: "@ Georgia Institute of Technology | Atlanta, GA, USA"
+  logo: /assets/images/logowseal-RGB.png
+  experiences:
+    - title: "Instructor"
+      items:
+        - col1: "Summer 2026"
+          col2: "ISyE 4600 - Methods and Applications of Machine Learning"

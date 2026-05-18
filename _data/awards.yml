@@ -1,0 +1,13 @@
+# Awards and honors (newest first)
+# Fields:
+#   - title: Full award title with markdown formatting (use *text* for italic)
+#   - year: Year
+#   - type: "paper" or "personal"
+#   - comment: Optional additional note (shown as a bullet point below)
+
+
+- title: |
+    **Finalist, Lee B. Lusted Student Prize Competition (QMTD)**, SMDM Annual Meeting
+  year: 2026
+  type: paper
+

@@ -1,0 +1,15 @@
+# Academic service - organized by category
+# Fields:
+#   - title: Category title
+#   - items: List of specific items (col1, col2 [, col3], optional comment)
+
+- title: "Session Chair"
+  items:
+    - col1: "2026"
+      col2: "INFORMS Annual Meeting"
+    - col1: "2025"
+      col2: "IISE Annual Meeting"
+    - col1: "2024"
+      col2: "INFORMS Annual Meeting"
+
+

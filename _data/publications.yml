@@ -1,0 +1,16 @@
+# Publications (newest first)
+# Fields: title, authors (list), venue, year, category, keywords, colab, abstract,
+#         figure, figure_caption, award, preprint, full_paper, pdf, slides, video, code, url
+# Categories used in filter: sel (Selected), seq (Sequential Decision-Making), hc (Healthcare), method (Methods), all
+
+- title: |
+    Feature Ranking using MIP for Machine Learning Models
+  year: 2026
+  authors:
+    - Himadri S. Pandey
+    - Gian-Gabriel P. Garcia
+  venue: In Preparation
+  keywords: [Feature Ranking, Mixed Integer Programming, Interpretable ML]
+  colab: ["Georgia Tech"]
+  category: [method]
+

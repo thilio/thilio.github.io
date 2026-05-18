@@ -1,0 +1,7 @@
+# Talks (newest first)
+# Fields: date, type (Talk/Keynote/Poster/Tutorial/Presentation), venue, venue_url, title, slides, video
+
+- date: "2026"
+  type: "Invited Talk"
+  venue: "INFORMS Healthcare Conference"
+  title: "Neural Index Policies for Multi-Action Restless Multi-Armed Bandits with Heterogeneous Budgets"
