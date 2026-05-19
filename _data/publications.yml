@@ -4,13 +4,14 @@
 # Categories used in filter: sel (Selected), seq (Sequential Decision-Making), hc (Healthcare), method (Methods), all
 
 - title: |
-    Feature Ranking using MIP for Machine Learning Models
-  year: 2026
+    A connection between the Aα-spectrum and Lovász theta number
+  year: 2025
   authors:
-    - Himadri S. Pandey
-    - Gian-Gabriel P. Garcia
-  venue: In Preparation
-  keywords: [Feature Ranking, Mixed Integer Programming, Interpretable ML]
-  colab: ["Georgia Tech"]
+    - Gabriel Coutinho
+    - Thiago Oliveira
+  venue: Linear Algebra and its Applications
+  full_paper: "https://doi.org/10.1016/j.laa.2025.04.007"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0024379525001570"
   category: [method]
+
 
