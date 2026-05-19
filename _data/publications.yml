@@ -1,6 +1,6 @@
 # Publications (newest first)
 # Fields: title, authors (list), venue, year, category, keywords, colab, abstract,
-#         figure, figure_caption, award, preprint, full_paper, pdf, slides, video, code, url
+#         figure, figure_caption, award, preprint, arxiv, full_paper, pdf, slides, video, code, url
 # Categories used in filter: sel (Selected), seq (Sequential Decision-Making), hc (Healthcare), method (Methods), all
 
 - title: |
@@ -11,6 +11,7 @@
     - Thiago Oliveira
   venue: Linear Algebra and its Applications
   arxiv: "https://arxiv.org/abs/2311.14884"
+  full_paper: "https://doi.org/10.1016/j.laa.2025.04.007"
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0024379525001570"
   category: [method]
 

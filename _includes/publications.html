@@ -63,6 +63,9 @@
                 {% if pub.preprint %}
                 <a href="{{ pub.preprint }}" class="pub-link">Preprint</a>
                 {% endif %}
+                {% if pub.arxiv %}
+                <a href="{{ pub.arxiv }}" class="pub-link">arXiv</a>
+                {% endif %}
                 {% if pub.full_paper %}
                 <a href="{{ pub.full_paper }}" class="pub-link">Full Paper</a>
                 {% endif %}
