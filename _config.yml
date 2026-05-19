@@ -10,7 +10,8 @@ author:
   email: toliveira9 at gatech dot edu
   photo: /assets/images/headshot.png
   titles:
-    - title: PhD Candidate, Machine Learning
+    - title: PhD Candidate, Algorithms, Combinatorics and Optimization
+      
   dept: H. Milton Stewart School of Industrial and Systems Engineering
   school: Georgia Institute of Technology
   location: Atlanta, GA, USA
@@ -18,7 +19,7 @@ author:
 
 # Social links (leave blank or remove to hide)
 social:
-  google_scholar: "https://scholar.google.com/citations?user=kS1eMMYAAAAJ&hl=en"
+  google_scholar: "https://scholar.google.com/citations?user=p7CZfS8AAAAJ&hl=en"
   github: "https://github.com/thilio"
   linkedin: ""
   cv: "/assets/rendercv/rendercv_output/Pandey_Himadri_CV.pdf"
