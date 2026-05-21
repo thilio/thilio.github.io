@@ -5,7 +5,6 @@ content: |
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
 news:
-  - date: "2026-04"
+  - date: "2026-05"
     content:
-      Selected as a **[Finalist](https://grad.gatech.edu/news/2026-three-minute-thesis-finalists-announced)**
-      in the [Georgia Tech 3 Minute Thesis (3MT) Competition](https://www.grad.gatech.edu/3mt).
+      Invited to present research on **prophet and philosopher inequalities** at the **[INFORMS Annual Meeting](https://www.informs.org/events-conferences/annual-meeting)**.
