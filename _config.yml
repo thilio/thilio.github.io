@@ -22,7 +22,7 @@ social:
   google_scholar: "https://scholar.google.com/citations?user=p7CZfS8AAAAJ&hl=en"
   github: "https://github.com/thilio"
   linkedin: ""
-  cv: "/assets/rendercv/rendercv_output/Pandey_Himadri_CV.pdf"
+  cv: ""
 
 # Build settings
 markdown: kramdown
