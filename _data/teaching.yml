@@ -6,10 +6,10 @@
 #     - title: Role/position title
 #     - items: List of specific items (col1, col2 [, col3], optional comment)
 
-- school: "@ Georgia Institute of Technology | Atlanta, GA, USA"
-  logo: /assets/images/logowseal-RGB.png
+- school: "@ University of São Paulo | São Paulo, SP, Brazil"
+  logo: /assets/images/USPlogo.png
   experiences:
-    - title: "Instructor"
+    - title: "Teaching Assistant"
       items:
         - col1: "Summer 2026"
           col2: "ISyE 4600 - Methods and Applications of Machine Learning"
