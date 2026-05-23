@@ -10,3 +10,13 @@
   title: "Why Weak Duality is Awesome: an Application of SDPs to Spectral Graph Theory"
   venue: "Georgia Tech ACO Student Seminar"
   place: "Atlanta, GA, USA"
+
+- date: "2023/10"
+  title: "A semidefinite programming approach to α₀(G)"
+  venue: "Workshop on Spectral Graph Theory (WSGT 2023)"
+  place: "Niterói, RJ, Brazil"
+
+- date: "2022/10"
+  title: "On the Maximum k-Colorable Subgraph Problem"
+  venue: "10th Latin American Workshop on Cliques in Graphs (LAWCG 22)"
+  place: "Curitiba, PR, Brazil"
