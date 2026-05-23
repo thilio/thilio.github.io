@@ -5,9 +5,6 @@ content: |
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
 news:
-  - date: "Today"
-    content:
-      I'm still working on creating this website, so at the current moment I still have to remove information from the old template. Please check back soon for updates!
   - date: "2026-05"
     content: |
       I was invited to present our work on prophet and philosopher
