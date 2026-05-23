@@ -9,5 +9,7 @@ news:
     content:
       I'm still working on creating this website, so at the current moment I still have to remove information from the old template. Please check back soon for updates!
   - date: "2026-05"
-    content:
-      Invited to present research on prophet and philosopher inequalities at the **[INFORMS Annual Meeting](https://www.informs.org/events-conferences/annual-meeting)**.
+    content: |
+      I was invited to present our work on prophet and philosopher
+      inequalities (joint work with Mohit Singh and Sahil Singla) at the **[INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)**.
+      I will be speaking in the session "Recent Advances in Online Algorithms".
