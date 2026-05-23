@@ -775,8 +775,8 @@ section:nth-child(even) {
 }
 
 .teaching-school-logo {
-    max-width: 360px;
-    height: 120px;
+    max-width: 600px;
+    height: 200px;
     object-fit: contain;
 }
 
