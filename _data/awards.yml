@@ -5,9 +5,22 @@
 #   - type: "paper" or "personal"
 #   - comment: Optional additional note (shown as a bullet point below)
 
+- title: |
+    **Spring 2026 ARC-ACO student Fellowship**, ARC-ACO, Georgia Tech
+  year: 2026
+  type: personal
 
 - title: |
-    **Finalist, Lee B. Lusted Student Prize Competition (QMTD)**, SMDM Annual Meeting
-  year: 2026
-  type: paper
+    **ISyE Herren Fellowship** for incoming PhD students, ISyE, Georgia Tech
+  year: 2024
+  type: personal
 
+- title: |
+    **ISyE Herren President's Fellowship**, ISyE, Georgia Tech
+  year: 2024
+  type: personal
+
+- title: |
+    **ACO Fellowship for incoming students**, ACO, Georgia Tech
+  year: 2024
+  type: personal
