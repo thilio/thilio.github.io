@@ -1,7 +1,12 @@
 # Talks (newest first)
-# Fields: date, type (Talk/Keynote/Poster/Tutorial/Presentation), venue, venue_url, title, slides, video
+# Fields: date (YEAR or YEAR/MONTH), title, venue, place, venue_url (optional), slides, video
 
-- date: "2026"
-  type: "Invited Talk"
-  venue: "INFORMS Healthcare Conference"
-  title: "Neural Index Policies for Multi-Action Restless Multi-Armed Bandits with Heterogeneous Budgets"
+- date: "2026/04"
+  title: "Prophet and Philosopher Inequalities for Divisible Items"
+  venue: "Georgia Tech ACO Student Seminar"
+  place: "Atlanta, GA, USA"
+
+- date: "2025/11"
+  title: "Why Weak Duality is Awesome: an Application of SDPs to Spectral Graph Theory"
+  venue: "Georgia Tech ACO Student Seminar"
+  place: "Atlanta, GA, USA"
