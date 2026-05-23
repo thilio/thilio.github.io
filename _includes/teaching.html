@@ -4,11 +4,9 @@
 
         {% for school in site.data.teaching %}
         <div class="teaching-school-group">
+            <div class="teaching-school-body">
             <div class="teaching-school-header">
                 <span class="teaching-school-name">{{ school.school }}</span>
-                {% if school.logo %}
-                <img src="{{ school.logo }}" alt="{{ school.school }} logo" class="teaching-school-logo">
-                {% endif %}
             </div>
             {% for exp in school.experiences %}
             <div class="teaching-experience">
@@ -38,6 +36,10 @@
                 {% endif %}
             </div>
             {% endfor %}
+            </div>
+            {% if school.logo %}
+            <img src="{{ school.logo }}" alt="{{ school.school }} logo" class="teaching-school-logo">
+            {% endif %}
         </div>
         {% endfor %}
     </div>
