@@ -1,6 +1,16 @@
 # Your bio/about content (supports Markdown)
 content: |
-  I am a PhD student in Algorithms, Combinatorics and Optimization at **Georgia Tech**, advised by **[Mohit Singh](https://www2.isye.gatech.edu/~msingh94/)** and **[Sahil Singla](https://faculty.cc.gatech.edu/~ssingla7/)**.
+  I am a second-year PhD candidate in Algorithms, Combinatorics, and Optimization (ACO) at Georgia Institute of Technology,
+  based in the H. Milton Stewart School of Industrial and Systems Engineering (ISyE),
+  where I am fortunate to be advised by **[Mohit Singh](https://www2.isye.gatech.edu/~msingh94/)**
+  and **[Sahil Singla](https://faculty.cc.gatech.edu/~ssingla7/)**.
+  My research interests include approximation and online algorithms, stochastic optimization,
+  and spectral graph theory.
+
+  Before coming to Atlanta, I earned a Master’s degree in Computer Science from University of São Paulo (USP),
+  where I was advised by **[Marcel K. de Carli Silva](https://www.ime.usp.br/~mksilva/)**.
+  During this time, I was also a visiting student at Bocconi University, hosted by **[Luca Trevisan](https://lucatrevisan.github.io)**.
+  Earlier, I completed a Bachelor’s degree in Molecular Science at USP.
 
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
