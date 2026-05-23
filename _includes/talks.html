@@ -6,7 +6,7 @@
             <tr class="talk-row">
                 <td class="talk-date">{{ talk.date }}</td>
                 <td class="talk-content">
-                    "{{ talk.title }}"{% if talk.venue %}, {% if talk.venue_url %}<a href="{{ talk.venue_url }}">"{{ talk.venue }}"</a>{% else %}"{{ talk.venue }}"{% endif %}{% endif %}{% if talk.place and talk.place != "" %}, "{{ talk.place }}"{% endif %}
+                    "{{ talk.title }}"{% if talk.venue %}, {% if talk.venue_url %}<a href="{{ talk.venue_url }}">{{ talk.venue }}</a>{% else %}{{ talk.venue }}{% endif %}{% endif %}{% if talk.place and talk.place != "" %}, {{ talk.place }}{% endif %}
                     {% if talk.slides %}<a href="{{ talk.slides | relative_url }}">[Slides]</a>{% endif %}
                     {% if talk.video %}<a href="{{ talk.video }}">[Video]</a>{% endif %}
                 </td>
