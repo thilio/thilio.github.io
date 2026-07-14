@@ -15,6 +15,11 @@ content: |
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
 news:
+  - date: "2026-07"
+    content: |
+      Our work on prophet and philosopher
+      inequalities (joint work with Mohit Singh and Sahil Singla) is available on **[arXiv](https://arxiv.org/abs/2607.11742)**.
+      Check it out.
   - date: "2026-05"
     content: |
       I was invited to present our work on prophet and philosopher
