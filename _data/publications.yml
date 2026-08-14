@@ -3,6 +3,17 @@
 #         figure, figure_caption, award, preprint, arxiv, full_paper, pdf, slides, video, code, url
 
 - title: |
+    If it is Good Then Drop it -- a Spiteful Poisson Process for Submodular Maximization
+  year: 2026
+  authors:
+    - Ariel Kulik
+    - Thiago Oliveira
+    - Roy Schwartz
+    - Mohit Singh
+  arxiv: "https://arxiv.org/abs/2608.05062"
+  url: "https://arxiv.org/abs/2608.05062"
+
+- title: |
     Philosopher and Prophet Inequalities for Divisible Items
   year: 2026
   authors:

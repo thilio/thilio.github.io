@@ -15,6 +15,10 @@ content: |
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
 news:
+  - date: "2026-08"
+    content: |
+      Our paper on non-monotone submodular maximization
+      (joint work with Ariel Kulik, Roy Schwartz, and Mohit Singh) is available on **[arXiv](https://arxiv.org/abs/2608.05062)**.
   - date: "2026-07"
     content: |
       Our work on philosopher and prophet
