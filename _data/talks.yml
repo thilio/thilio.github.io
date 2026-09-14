@@ -1,5 +1,9 @@
 # Talks (newest first)
 # Fields: date (YEAR or YEAR/MONTH), title, venue, place, venue_url (optional), slides, video
+- date: "2026/08"
+  title: "Fractional Allocations Compared to the Online Optimum"
+  venue: "Flash talk at the Georgia Tech ARC Colloquium"
+  place: "Atlanta, GA, USA"
 
 - date: "2026/04"
   title: "Prophet and Philosopher Inequalities for Divisible Items"
