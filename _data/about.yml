@@ -15,6 +15,10 @@ content: |
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
 news:
+  - date: "2026-09"
+    content: |
+      Our paper on k-fold generalizations of Lovász theta and their sandwich theorems
+      (joint work with Marcel K. de Carli Silva, Gabriel Coutinho, and Levent Tunçel) is available on **[arXiv](https://arxiv.org/abs/2609.06312)**.
   - date: "2026-08"
     content: |
       Our paper on non-monotone submodular maximization

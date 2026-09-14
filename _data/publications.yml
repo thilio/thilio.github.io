@@ -3,6 +3,17 @@
 #         figure, figure_caption, award, preprint, arxiv, full_paper, pdf, slides, video, code, url
 
 - title: |
+    On some k-fold generalizations of Lovász theta and their sandwich theorems
+  year: 2026
+  authors:
+    - Marcel K. de Carli Silva
+    - Gabriel Coutinho
+    - Thiago Oliveira
+    - Levent Tunçel
+  arxiv: "https://arxiv.org/abs/2609.06312"
+  url: "https://arxiv.org/abs/2609.06312"
+
+- title: |
     If it is Good Then Drop it -- a Spiteful Poisson Process for Submodular Maximization
   year: 2026
   authors:
@@ -40,5 +51,4 @@
     - Thiago Oliveira
   venue: "Master's Dissertation, Institute of Mathematics, Statistics and Computer Science, University of São Paulo. Advisor: Marcel K. de Carli Silva"
   url: "https://teses.usp.br/teses/disponiveis/45/45134/tde-25082025-111037/en.html"
-
 
