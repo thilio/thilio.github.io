@@ -15,6 +15,10 @@ content: |
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
 news:
+  - date: "2026-10"
+    content: |
+      Our paper **[Philosopher and Prophet Inequalities for Divisible Items](https://arxiv.org/abs/2607.11742)**
+      (joint work with Mohit Singh and Sahil Singla) was accepted to **SODA 2027**!
   - date: "2026-09"
     content: |
       Our paper on generalizations of the Lovász theta function
