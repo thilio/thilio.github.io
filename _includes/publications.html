@@ -23,7 +23,7 @@
                 {% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}
             </div>
             <div class="pub-venue">
-                {{ pub.venue }}
+                {% if pub.venue_url %}<a href="{{ pub.venue_url }}">{{ pub.venue }}</a>{% else %}{{ pub.venue }}{% endif %}
             </div>
             {% if pub.keywords %}
             <div class="pub-keywords">

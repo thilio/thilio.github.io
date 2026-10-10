@@ -1,5 +1,5 @@
 # Publications (newest first)
-# Fields: title, authors (list), venue, year, keywords, colab, abstract,
+# Fields: title, authors (list), venue, venue_url, year, keywords, colab, abstract,
 #         figure, figure_caption, award, preprint, arxiv, full_paper, pdf, slides, video, code, url
 
 - title: |
@@ -10,7 +10,6 @@
     - Gabriel Coutinho
     - Thiago Oliveira
     - Levent Tunçel
-  arxiv: "https://arxiv.org/abs/2609.06312"
   url: "https://arxiv.org/abs/2609.06312"
 
 - title: |
@@ -21,7 +20,6 @@
     - Thiago Oliveira
     - Roy Schwartz
     - Mohit Singh
-  arxiv: "https://arxiv.org/abs/2608.05062"
   url: "https://arxiv.org/abs/2608.05062"
 
 - title: |
@@ -32,7 +30,6 @@
     - Mohit Singh
     - Sahil Singla
   venue: ACM-SIAM Symposium on Discrete Algorithms (SODA 2027)
-  arxiv: "https://arxiv.org/abs/2607.11742"
   url: "https://arxiv.org/abs/2607.11742"
 
 - title: |
@@ -42,8 +39,8 @@
     - Gabriel Coutinho
     - Thiago Oliveira
   venue: Linear Algebra and its Applications
-  arxiv: "https://arxiv.org/abs/2311.14884"
-  url: "https://www.sciencedirect.com/science/article/abs/pii/S0024379525001570"
+  venue_url: "https://www.sciencedirect.com/science/article/abs/pii/S0024379525001570"
+  url: "https://arxiv.org/abs/2311.14884"
 
 - title: |
     The maximum k-colorable subgraph problem
