@@ -1,5 +1,5 @@
 # Publications (newest first)
-# Fields: title, authors (list), venue, venue_prefix, venue_url, year, keywords, colab, abstract,
+# Fields: title, authors (list), venue, venue_url, year, keywords, colab, abstract,
 #         figure, figure_caption, award, preprint, arxiv, full_paper, pdf, slides, video, code, url
 
 - title: |
@@ -30,7 +30,6 @@
     - Mohit Singh
     - Sahil Singla
   venue: ACM-SIAM Symposium on Discrete Algorithms (SODA 2027)
-  venue_prefix: To appear in the proceedings of
   venue_url: "https://www.siam.org/conferences-events/siam-conferences/soda27/program/accepted-papers/"
   url: "https://arxiv.org/abs/2607.11742"
 
