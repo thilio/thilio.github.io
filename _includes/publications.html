@@ -20,7 +20,7 @@
                         {% if pub.year %}<span class="pub-year">({{ pub.year }})</span>{% endif %}
                     </div>
                     <div class="pub-authors">
-                {% for author in pub.authors %}{% assign author_clean = author | replace: '*', '' | replace: '†', '' | strip %}{% if author_clean == site.author.name %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+                {% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}
             </div>
             <div class="pub-venue">
                 {{ pub.venue }}

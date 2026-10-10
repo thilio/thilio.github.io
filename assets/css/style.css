@@ -494,7 +494,7 @@ section:nth-child(even) {
 .pub-venue {
     color: var(--text-muted);
     font-style: italic;
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 .pub-award {
