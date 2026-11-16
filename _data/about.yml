@@ -15,6 +15,10 @@ content: |
 # News items (newest first)
 # Each item has: date (YYYY-MM format), content (supports Markdown)
 news:
+  - date: "2026-11"
+    content: |
+      I was awarded a **Student Travel Award** to attend **SODA 2027**!
+      Thank you to **SIAM** and **NSF** for their support.
   - date: "2026-10"
     content: |
       Our paper **[Philosopher and Prophet Inequalities for Divisible Items](https://arxiv.org/abs/2607.11742)**
@@ -42,7 +46,3 @@ news:
       I will present my recent work on prophet and philosopher inequalities
       (joint work with Mohit Singh and Sahil Singla) at the
       Georgia Tech **[ACO student seminar](https://sites.google.com/view/aco-student-seminar-gatech/home)**.
-  - date: "2025-11"
-    content: |
-      I was awarded the spring 2026 **[ARC-ACO student fellowship](https://arc.gatech.edu/student-fellowships/)**.
-      I would like to thank the Algorithms and Randomness Center (ARC) for their support.
